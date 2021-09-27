@@ -67,7 +67,7 @@ And last date for completing the task is 27th October 11:59 PM IST.
 
 Source: 30 Days of Google Cloud Official Website.
 
-You can visit this webiste for more info and FAQs: https://events.withgoogle.com/30daysofgooglecloud/#content
+You can visit this website for more info and FAQs: https://events.withgoogle.com/30daysofgooglecloud/#content
 
 <hr/>
 
