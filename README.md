@@ -80,10 +80,10 @@ You can show some love ❤ by giving a star ⭐ and sharing this repo. For more 
   
    <a href="https://www.linkedin.com/in/mritunjay7/" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797880-3537a842-ce79-44e1-ba25-1e760f51ef88.png" height="30vh">  </a>
  <a href="https://twitter.com/kmritunjay_" class="pics"><img src="https://user-images.githubusercontent.com/60788180/130677206-0f4a593f-a3a8-4d65-ab70-49c86ece5ce2.png" height="30vh">  </a>
-    <a href="https://github.com/thedrivingforc" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797806-016f710c-7c24-4b9d-80ee-b541202646b1.png" height="30vh"></a>
+    <a href="https://github.com/thedrivingforc" class="pics"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" height="30vh"></a>
     <a href="https://www.instagram.com/_the_driving_force_" class="pics"><img src="https://user-images.githubusercontent.com/60788180/130677056-e5bbca80-5b36-4a67-a22c-a7ed7305eddc.png" height="30vh">  </a>
    <a href="https://www.youtube.com/channel/UCrdIMgSnxt0er4zLJHaqcEg" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797892-dfe9ff29-c6de-4a31-8f37-8f1a15adedc7.png" height="30vh"></a>
-   <a href="mailto:me.kmritunjay@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797841-d9fde958-86d2-46e6-ad94-0289ed608ae4.png" height="30vh"></a>
+   <a href="mailto:me.kmritunjay@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" class="pics"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30vh"></a>
  </center>
   </div>
 </p>
